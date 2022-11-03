@@ -17,7 +17,15 @@ N/A
 
 ## Usage
 
-This is the front page of a website for a company. There is a site navigation tool on the top of the page. Clicking on "Search Engine Optimatization" takes you to that section of the page. Clicking on "Online Reputation Management" takes you to that section of the page. Clicking on "Social Media Marketing" takes you to that section of the page. 
+The website is live [Horiseon][https://wangbrian26.github.io/Mod1-Challenge/#social-media-marketing]
+
+This is the front page of a website for a company. There is a site navigation tool on the top of the page. 
+
+- Clicking on "Search Engine Optimatization" takes you to that section of the page. 
+- Clicking on "Online Reputation Management" takes you to that section of the page. 
+- Clicking on "Social Media Marketing" takes you to that section of the page. 
+
+![Section](./assets/images/Left.png)
 
 ## Credits
 
