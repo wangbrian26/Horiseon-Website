@@ -17,7 +17,7 @@ N/A
 
 ## Usage
 
-The website is live [Horiseon][https://wangbrian26.github.io/Mod1-Challenge/#social-media-marketing]
+The website is live [Horiseon][https://wangbrian26.github.io/Horiseon-Website]
 
 This is the front page of a website for a company. There is a site navigation tool on the top of the page. 
 
